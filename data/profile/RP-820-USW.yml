@@ -1,5 +1,5 @@
 ---
-default:
+RP-820-USW:
   name: RP-820-USW
   vendor: Xiamen Rongta Technology Co., Ltd
   notes: ""
@@ -32,16 +32,12 @@ default:
       pixels: Unknown
   codePages:
     0: CP437
-    1: "Unknown"
     2: CP850
     3: CP860
     4: CP863
     5: CP865
     6: CP1251
     7: CP866
-    8: "Unknown"
-    9: CP755
-    10: "Unknown"
     15: CP862
     16: CP1252
     17: CP1253
